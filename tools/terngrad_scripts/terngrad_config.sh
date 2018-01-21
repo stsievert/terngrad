@@ -1,5 +1,5 @@
 TERNGRAD_ROOT=${HOME}/terngrad
-SCRIPT_DIR=${HOME}/terngrad_scripts
+SCRIPT_DIR=${HOME}/terngrad/tools/terngrad_scripts
 
 # build all
 echo "building terngrad ..."
